@@ -1,4 +1,18 @@
-## Hi there 👋
+# hi, i'm snigdha 👋
+
+i'm a cs student at ut austin building meaningful things with software and ai.
+
+## interests
+- ai/ml
+- developer tools
+- intelligent systems
+- tech for real-world impact
+
+## tech
+`Python` `FastAPI` `React` `TypeScript` `Kafka` `Redis` `Docker` `Postgres` `Next.js` `Git/GitHub`
+
+## connect
+- Email: snigchoppa@gmail.com
 
 <!--
 **snigdhachoppac/snigdhachoppac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
