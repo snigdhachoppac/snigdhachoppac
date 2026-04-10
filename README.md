@@ -1,16 +1,30 @@
 <h1 align="center">hi, i'm snigdha 👋</h1>
-<p align="center">UT Austin CS student interested in AI/ML, developer tools, and systems that work at scale.</p>
+
+<h3 align="center">
+building AI-powered developer tools and real-world systems
+</h3>
 
 <p align="center">
-  <a href="mailto:snigchoppa@gmail.com"><img src="https://img.shields.io/badge/email-snigchoppa@gmail.com-informational?style=flat-square&logo=gmail"></a>
-  &nbsp;
-  <a href="YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/linkedin-connect-blue?style=flat-square&logo=linkedin"></a>
-  &nbsp;
-  <a href="YOUR_PORTFOLIO_HERE"><img src="https://img.shields.io/badge/portfolio-view-black?style=flat-square&logo=vercel"></a>
+  cs @ ut austin • full-stack • ai • systems
+</p>
+
+<p align="center">
+  <a href="mailto:snigchoppa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="YOUR_LINKEDIN_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="YOUR_PORTFOLIO_HERE">
+    <img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=vercel">
+  </a>
 </p>
 
 ---
 
+<p align="center">
+  🚀 currently building <b>CampusCare</b> — improving student healthcare access
+</p>
 ### projects
 
 **[ReviewAI](YOUR_LINK)** — github app that reviews every pr using claude. catches jwt vulnerabilities, n+1 queries, and architectural anti-patterns with inline comments and a quality score dashboard.
@@ -34,5 +48,20 @@
 
 ---
 
+---
+
+### stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snigdhachoppac&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### what i care about
+
+- building software that solves real problems  
+- making systems reliable, scalable, and understandable  
+- combining AI with practical, real-world use cases  
 ### connect
 <a href="mailto:snigchoppa@gmail.com">email</a> · <a href="YOUR_LINKEDIN_HERE">linkedin</a> · <a href="YOUR_PORTFOLIO_HERE">portfolio</a>
