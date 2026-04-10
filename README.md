@@ -31,9 +31,9 @@ building AI-powered developer tools and real-world systems
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/snigdhachoppac/reviewai">ReviewAI</a></h3>
-      <p>AI GitHub app that automatically reviews pull requests, flags security and performance issues, and generates code quality insights in seconds.</p>
-    </td>
+     <h3><a href="https://github.com/snigdhachoppac/reviewai">ReviewAI</a></h3>
+<p>AI GitHub app that automatically reviews pull requests, flags security and performance issues, and generates code quality insights in seconds.</p>
+<p><a href="https://reviewai-dashboard.vercel.app">🔗 Live Demo</a></p>
     <td width="50%">
       <h3><a href="https://github.com/snigdhachoppac/wildwatch">WildWatch</a></h3>
       <p>Multimodal early-warning system combining satellite imagery, camera traps, and passive audio to predict endangered species population collapse before it happens.</p>
