@@ -1,39 +1,32 @@
 hi, i'm snigdha 👋
 
-cs student at ut austin building ai-powered developer tools and intelligent systems.
-i like working on problems where ml meets real infrastructure.
+cs @ ut austin building ai-powered products, developer tools, and real-world systems.
+
+i like working on software that is technical underneath but genuinely useful to people — especially across ai, full-stack engineering, and applied systems.
 
 ---
 
-## projects
+## 🚀 projects
 
-**[reviewai](your-link)** — ai pr reviewer
-github app that reviews every pr using claude. catches jwt vulnerabilities, n+1 queries,
-and architectural anti-patterns with inline comments and a quality score dashboard.
-`node.js` `express` `react` `postgres` `redis` `bullmq` `claude api`
+**reviewai** — ai github app that reviews pull requests, flags security and performance issues, and tracks code quality over time.
 
-**[wildwatch](your-link)** — species collapse detection
-fuses satellite imagery, camera traps, and passive audio to predict endangered species
-population collapse before it happens.
-`python` `pytorch` `fastapi` `next.js` `mapbox` `google earth engine`
+**wildwatch** — multimodal early-warning system combining satellite imagery, camera traps, and passive audio to predict endangered species population collapse.
 
-**[predictive system monitor](your-link)** — ml failure detection
-predicts system issues before they occur using isolation forest + shap explainability
-and ai-generated incident runbooks.
-`python` `kafka` `fastapi` `react` `typescript` `redis` `claude api`
+**predictive system monitor** — real-time failure prediction system using streaming metrics, anomaly detection, and explainability to surface issues before they happen.
 
-[speechpath](https://github.com/snigdhachoppac/speechpath) — neurological risk screening from voice. extracts 20+ acoustic biomarkers with librosa, classifies parkinson's risk using a random forest trained on uci clinical data, and generates personalized reports via claude. `python` `fastapi` `next.js` `librosa` `scikit-learn` `claude api`
+**speechpath** — voice biomarker screening tool that analyzes speech features to estimate neurological risk and generate personalized reports.
 
 ---
 
-## tech
-`python` `typescript` `javascript` `fastapi` `react` `next.js`
-`node.js` `postgres` `redis` `kafka` `docker` `pytorch`
+## 🛠️ tech
+
+python • typescript • javascript • react • next.js • fastapi • node.js • postgres • redis • kafka • docker • pytorch
 
 ---
 
-## connect
-snigchoppa@gmail.com · [linkedin](#) · [portfolio](#)
+## 📫 connect
+
+[Email](mailto:snigchoppa@gmail.com) • [LinkedIn](#) • [Portfolio](#)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
