@@ -66,12 +66,10 @@ building AI-powered developer tools and real-world systems
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snigdhachoppac&show_icons=true&theme=dark" />
 </p>
----
 
 ### what i care about
-
-- building software that solves real problems  
-- making systems reliable, scalable, and understandable  
-- combining AI with practical, real-world use cases  
+- building systems that catch problems *before they happen*
+- turning AI into reliable, production-grade tools
+- solving real-world problems, not just demos
 ### connect
 <a href="mailto:snigchoppa@gmail.com">email</a> · <a href="YOUR_LINKEDIN_HERE">linkedin</a> · <a href="YOUR_PORTFOLIO_HERE">portfolio</a>
