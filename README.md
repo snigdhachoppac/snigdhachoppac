@@ -1,45 +1,38 @@
-hi, i'm snigdha 👋
+<h1 align="center">hi, i'm snigdha 👋</h1>
+<p align="center">UT Austin CS student interested in AI/ML, developer tools, and systems that work at scale.</p>
 
-cs @ ut austin building ai-powered products, developer tools, and real-world systems.
-
-i like working on software that is technical underneath but genuinely useful to people — especially across ai, full-stack engineering, and applied systems.
-
----
-
-## 🚀 projects
-
-**reviewai** — ai github app that reviews pull requests, flags security and performance issues, and tracks code quality over time.
-
-**wildwatch** — multimodal early-warning system combining satellite imagery, camera traps, and passive audio to predict endangered species population collapse.
-
-**predictive system monitor** — real-time failure prediction system using streaming metrics, anomaly detection, and explainability to surface issues before they happen.
-
-**speechpath** — voice biomarker screening tool that analyzes speech features to estimate neurological risk and generate personalized reports.
+<p align="center">
+  <a href="mailto:snigchoppa@gmail.com"><img src="https://img.shields.io/badge/email-snigchoppa@gmail.com-informational?style=flat-square&logo=gmail"></a>
+  &nbsp;
+  <a href="YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/linkedin-connect-blue?style=flat-square&logo=linkedin"></a>
+  &nbsp;
+  <a href="YOUR_PORTFOLIO_HERE"><img src="https://img.shields.io/badge/portfolio-view-black?style=flat-square&logo=vercel"></a>
+</p>
 
 ---
 
-## 🛠️ tech
+### projects
 
-python • typescript • javascript • react • next.js • fastapi • node.js • postgres • redis • kafka • docker • pytorch
+**[ReviewAI](YOUR_LINK)** — github app that reviews every pr using claude. catches jwt vulnerabilities, n+1 queries, and architectural anti-patterns with inline comments and a quality score dashboard.
+`node.js` `express` `react` `postgres` `redis` `bullmq` `claude api`
+
+**[WildWatch](YOUR_LINK)** — fuses satellite imagery, camera traps, and passive audio to predict endangered species population collapse before it happens.
+`python` `pytorch` `fastapi` `next.js` `mapbox` `google earth engine`
+
+**[Predictive System Monitor](YOUR_LINK)** — ml failure detection that predicts system issues before they occur using isolation forest + shap explainability and ai-generated incident runbooks.
+`python` `kafka` `fastapi` `react` `typescript` `redis` `claude api`
+
+**[SpeechPath](YOUR_LINK)** — neurological risk screening from voice. extracts 20+ acoustic biomarkers and classifies parkinson's risk using a random forest trained on uci clinical data.
+`python` `fastapi` `next.js` `librosa` `scikit-learn` `claude api`
 
 ---
 
-## 📫 connect
+### tech
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,postgres,redis,docker,pytorch,kafka" />
+</p>
 
-[Email](mailto:snigchoppa@gmail.com) • [LinkedIn](#) • [Portfolio](#)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**snigdhachoppac/snigdhachoppac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### connect
+<a href="mailto:snigchoppa@gmail.com">email</a> · <a href="YOUR_LINKEDIN_HERE">linkedin</a> · <a href="YOUR_PORTFOLIO_HERE">portfolio</a>
