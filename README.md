@@ -22,7 +22,7 @@ predicts system issues before they occur using isolation forest + shap explainab
 and ai-generated incident runbooks.
 `python` `kafka` `fastapi` `react` `typescript` `redis` `claude api`
 
-**speechpath** — neurological risk screening from voice. extracts 20+ acoustic biomarkers with librosa, classifies parkinson's risk using a random forest trained on uci clinical data, and generates personalized reports via claude. `python` `fastapi` `next.js` `librosa` `scikit-learn` `claude api`
+[speechpath](https://github.com/snigdhachoppac/speechpath) — neurological risk screening from voice. extracts 20+ acoustic biomarkers with librosa, classifies parkinson's risk using a random forest trained on uci clinical data, and generates personalized reports via claude. `python` `fastapi` `next.js` `librosa` `scikit-learn` `claude api`
 
 ---
 
