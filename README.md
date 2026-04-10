@@ -60,10 +60,6 @@ building AI-powered developer tools and real-world systems
 
 ---
 
-### stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snigdhachoppac&show_icons=true&hide_border=true&theme=dark" />
-</p>
 
 ### what i care about
 - building systems that catch problems *before they happen*
