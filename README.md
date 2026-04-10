@@ -25,7 +25,6 @@ building AI-powered developer tools and real-world systems
 <p align="center">
   🚀 currently building <b>CampusCare</b> — improving student healthcare access
 </p>
----
 
 ### featured projects
 
