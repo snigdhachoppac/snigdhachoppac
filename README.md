@@ -43,6 +43,7 @@ building AI-powered developer tools and real-world systems
     <td width="50%">
       <h3><a href="https://github.com/snigdhachoppac/predictivemonitor">Predictive System Monitor</a></h3>
       <p>Real-time failure prediction system that uses streaming metrics, anomaly detection, and explainable ML to surface issues before systems break.</p>
+      <p><a href="https://predictivemonitor.vercel.app">🔗 Live Demo</a></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/snigdhachoppac/speechpath">SpeechPath</a></h3>
