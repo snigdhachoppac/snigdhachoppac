@@ -25,19 +25,32 @@ building AI-powered developer tools and real-world systems
 <p align="center">
   🚀 currently building <b>CampusCare</b> — improving student healthcare access
 </p>
-### projects
+---
 
-**[ReviewAI](YOUR_LINK)** — github app that reviews every pr using claude. catches jwt vulnerabilities, n+1 queries, and architectural anti-patterns with inline comments and a quality score dashboard.
-`node.js` `express` `react` `postgres` `redis` `bullmq` `claude api`
+### featured projects
 
-**[WildWatch](YOUR_LINK)** — fuses satellite imagery, camera traps, and passive audio to predict endangered species population collapse before it happens.
-`python` `pytorch` `fastapi` `next.js` `mapbox` `google earth engine`
-
-**[Predictive System Monitor](YOUR_LINK)** — ml failure detection that predicts system issues before they occur using isolation forest + shap explainability and ai-generated incident runbooks.
-`python` `kafka` `fastapi` `react` `typescript` `redis` `claude api`
-
-**[SpeechPath](YOUR_LINK)** — neurological risk screening from voice. extracts 20+ acoustic biomarkers and classifies parkinson's risk using a random forest trained on uci clinical data.
-`python` `fastapi` `next.js` `librosa` `scikit-learn` `claude api`
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/snigdhachoppac/reviewai">ReviewAI</a></h3>
+      <p>AI GitHub app that automatically reviews pull requests, flags security and performance issues, and generates code quality insights in seconds.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/snigdhachoppac/wildwatch">WildWatch</a></h3>
+      <p>Multimodal early-warning system combining satellite imagery, camera traps, and passive audio to predict endangered species population collapse before it happens.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/snigdhachoppac/predictivemonitor">Predictive System Monitor</a></h3>
+      <p>Real-time failure prediction system that uses streaming metrics, anomaly detection, and explainable ML to surface issues before systems break.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/snigdhachoppac/speechpath">SpeechPath</a></h3>
+      <p>AI-powered voice biomarker screening tool that analyzes speech features to estimate neurological risk and generate clear, personalized reports.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
