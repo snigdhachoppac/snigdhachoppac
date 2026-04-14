@@ -37,6 +37,7 @@ building AI-powered developer tools and real-world systems
     <td width="50%">
       <h3><a href="https://github.com/snigdhachoppac/wildwatch">WildWatch</a></h3>
       <p>Multimodal early-warning system combining satellite imagery, camera traps, and passive audio to predict endangered species population collapse before it happens.</p>
+      <p><a href="https://snigdhachoppac.github.io/wildwatch">🔗 Live Demo</a></p>
     </td>
   </tr>
   <tr>
