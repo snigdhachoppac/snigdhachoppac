@@ -48,6 +48,7 @@ building AI-powered developer tools and real-world systems
     <td width="50%">
       <h3><a href="https://github.com/snigdhachoppac/speechpath">SpeechPath</a></h3>
       <p>AI-powered voice biomarker screening tool that analyzes speech features to estimate neurological risk and generate clear, personalized reports.</p>
+      <p><a href="https://speechpath-frontend-e3vag93jl-snigdhachoppacs-projects.vercel.app">🔗 Live Demo</a></p>
     </td>
   </tr>
 </table>
