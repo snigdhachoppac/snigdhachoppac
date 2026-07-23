@@ -99,14 +99,14 @@ Multimodal prediction system combining camera-trap imagery, satellite data, acou
 
 <td width="50%" valign="top">
 
-### [Signal Greeks](www.signalgreeks.com)
+### [Signal Greeks]([www.signalgreeks.com](https://www.signalgreeks.com/about))
 
 Production options-analytics platform serving 50+ early users, with scheduled market-data pipelines, recommendation logic, PostgreSQL caching, automated testing, authentication, subscriptions, and Azure deployment.
 
 **Highlights:**  
 `Python` `FastAPI` `PostgreSQL` `Azure` `GitHub Actions`
 
-[Live Site](YOUR_LIVE_SITE_URL)
+[Live Site]([https://www.signalgreeks.com/about]))
 
 </td>
 
