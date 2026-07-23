@@ -93,7 +93,7 @@ Multimodal prediction system combining camera-trap imagery, satellite data, acou
 **Highlights:**  
 `Python` `PyTorch` `EfficientNet` `Multimodal ML` `Geospatial Data`
 
-[Repository](https://github.com/snigdhachoppac/wildwatch)
+[Repository](https://github.com/snigdhachoppac/wildwatch) · [Demo](https://snigdhachoppac.github.io/wildwatch/)
 
 <td width="50%" valign="top">
 
