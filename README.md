@@ -98,9 +98,18 @@ Multimodal prediction system combining camera-trap imagery, satellite data, acou
 </td>
 <td width="50%" valign="top">
 
-### [Predictive System Monitor](https://github.com/snigdhachoppac/predictivemonitor)
+<td width="50%" valign="top">
 
-Streaming reliability platform that analyzes system telemetry, detects anomalies, and surfaces potential failures using explainable machine-learning models.
+### [Signal Greeks](www.signalgreeks.com)
+
+Production options-analytics platform serving 50+ early users, with scheduled market-data pipelines, recommendation logic, PostgreSQL caching, automated testing, authentication, subscriptions, and Azure deployment.
+
+**Highlights:**  
+`Python` `FastAPI` `PostgreSQL` `Azure` `GitHub Actions`
+
+[Live Site](YOUR_LIVE_SITE_URL)
+
+</td>
 
 **Highlights:**  
 `Python` `Kafka` `PostgreSQL` `Machine Learning` `Monitoring`
