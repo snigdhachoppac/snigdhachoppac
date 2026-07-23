@@ -95,21 +95,18 @@ Multimodal prediction system combining camera-trap imagery, satellite data, acou
 
 [Repository](https://github.com/snigdhachoppac/wildwatch)
 
-</td>
-
 <td width="50%" valign="top">
 
-### [Signal Greeks]([www.signalgreeks.com](https://www.signalgreeks.com/about))
+### [Signal Greeks](https://www.signalgreeks.com/about)
 
 Production options-analytics platform serving 50+ early users, with scheduled market-data pipelines, recommendation logic, PostgreSQL caching, automated testing, authentication, subscriptions, and Azure deployment.
 
 **Highlights:**  
 `Python` `FastAPI` `PostgreSQL` `Azure` `GitHub Actions`
 
-[Live Site]([https://www.signalgreeks.com/about]))
+[Live Site](https://www.signalgreeks.com/about)
 
 </td>
-
 **Highlights:**  
 `Python` `Kafka` `PostgreSQL` `Machine Learning` `Monitoring`
 
