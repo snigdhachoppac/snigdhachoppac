@@ -17,12 +17,12 @@
 
 I'm a computer science student at **The University of Texas at Austin** interested in building software that connects algorithms, data, and real-world systems.
 
-My work spans autonomous systems, industrial controls, distributed applications, AI products, and production software. I enjoy taking projects from an initial idea through implementation, testing, deployment, and iteration.
+My work spans autonomous systems, industrial controls, production applications, AI products, and developer tools. I enjoy taking projects from an initial idea through implementation, testing, deployment, and iteration.
 
 - Building reliable systems with **C++, Python, Linux, and TypeScript**
 - Interested in **software engineering, robotics, embedded systems, infrastructure, and applied AI**
 - Founder and software engineer behind a production financial analytics platform
-- Currently seeking software engineering internship opportunities in Austin
+- Currently seeking software engineering internship opportunities
 
 ---
 
@@ -51,7 +51,7 @@ Five-node C++ and ROS 2 autonomy stack coordinating state estimation, obstacle a
 **Highlights:**  
 `C++` `ROS 2` `Gazebo` `GoogleTest` `Autonomy`
 
-[Repository](https://github.com/snigdhachoppac/mariner)
+[Repository](https://github.com/snigdhachoppac/mariner) · [Demo](https://youtu.be/kTFjcCB29_o)
 
 </td>
 </tr>
@@ -122,7 +122,7 @@ Streaming reliability platform that analyzes system telemetry, detects anomalies
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### systems, robotics, and controls
