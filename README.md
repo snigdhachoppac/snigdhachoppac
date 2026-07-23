@@ -96,7 +96,6 @@ Multimodal prediction system combining camera-trap imagery, satellite data, acou
 [Repository](https://github.com/snigdhachoppac/wildwatch)
 
 </td>
-<td width="50%" valign="top">
 
 <td width="50%" valign="top">
 
