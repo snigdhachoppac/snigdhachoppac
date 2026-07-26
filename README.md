@@ -30,7 +30,7 @@ I currently build and operate **Signal Greeks**, a production options-analytics 
 
 | Project | Description |
 |---|---|
-| **[Signal Greeks](https://signalgreeks.com/about)** | Production options-analytics platform serving 50+ early users, with scheduled market-data pipelines, PostgreSQL caching, automated testing, authentication, subscriptions, monitoring, and Azure deployment. |
+| **[Signal Greeks](https://www.signalgreeks.com/about)** | Production options-analytics platform serving 50+ early users, with scheduled market-data pipelines, PostgreSQL caching, automated testing, authentication, subscriptions, monitoring, and Azure deployment. |
 | **[FabMotion](https://github.com/snigdhachoppac/fabmotion)** | Rust/Linux three-axis wafer-handler simulator integrating A* planning, online trajectory generation, a measured 1 kHz control loop, fault injection, and telemetry analysis. |
 | **[TideLink](https://github.com/snigdhachoppac/tidelink)** | C++/ROS 2 actuator interface and software-in-the-loop testbed using a binary UDP protocol, CRC validation, watchdogs, telemetry, and automated communication-fault injection. |
 | **[ReviewAI](https://github.com/snigdhachoppac/reviewai)** | GitHub App using Node.js, Redis, and LLM APIs to process pull-request diffs asynchronously and publish structured inline review feedback. |
